@@ -4,7 +4,7 @@ Restaurant menu website developed for Alkemy's front-end challenge. Technologies
 
 You can watch a video demo [here](https://streamable.com/x3hlvo).
 
-![AppGifDemo]()
+![AppGifDemo](https://github.com/Ginijhnc/alkemy-react-challenge/blob/main/AlkemyChallenge.gif?raw=true)
 
 Para correr la aplicación es necesario crear un archivo .env y agregarle las siguientes variables de entorno:
 
